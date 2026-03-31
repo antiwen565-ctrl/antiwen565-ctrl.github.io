@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+locale = 'es-es'
+title = 'AwS CyberSecurity Blog'
+theme = 'PaperMod'
+[params]
+  defaultTheme = "dark"
+  showReadingTime = true
+  showShareButtons = true
+  ShowPostNavLinks = true
+  [params.homeInfoParams]
+  Title = "Bienvenido 👨‍💻"
+  Content = "Blog de ciberseguridad y desarrollo"
+ 
