@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Nmap on AwS CyberSecurity Blog</title><link>https://example.org/tags/nmap/</link><description>Recent content in Nmap on AwS CyberSecurity Blog</description><generator>Hugo</generator><language>es-es</language><lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/nmap/index.xml" rel="self" type="application/rss+xml"/><item><title>Guía de Nmap</title><link>https://example.org/posts/guia-nmap/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate><guid>https://example.org/posts/guia-nmap/</guid><description>&lt;p&gt;Nmap (Network Mapper) es una herramienta de código abierto utilizada para el escaneo de redes y auditoría de seguridad.&lt;/p&gt;
+&lt;p&gt;Permite descubrir:&lt;/p&gt;
+&lt;p&gt;hosts activos
+puertos abiertos
+servicios corriendo
+posibles vulnerabilidades&lt;/p&gt;
+&lt;p&gt;Se usa muchísimo en:&lt;/p&gt;
+&lt;p&gt;pentesting
+administración de redes
+ciberseguridad ofensiva&lt;/p&gt;</description></item></channel></rss>
