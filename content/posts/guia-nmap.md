@@ -24,7 +24,18 @@ ciberseguridad ofensiva
 
 ---------------------------
 
-##Como usarlo??
+#Como usarlo??
 
 La estructura es la siguiente:
+
+```bash
+nmap [tipo escaneo] [filtros/Especificaciones] [IP víctima]
+```
+Por ejemplo,
+```bash
+nmap -sS -p- -T4 10.10.10.10
+```
+- -sS = escaneo general
+- -p- = que se escaneen todos lo puertos
+- -T4= que se haga a velocidad intermedia
 
