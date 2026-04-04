@@ -20,3 +20,11 @@ Se usa muchísimo en:
 pentesting
 administración de redes
 ciberseguridad ofensiva
+
+
+---------------------------
+
+##Como usarlo??
+
+La estructura es la siguiente:
+
