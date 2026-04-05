@@ -56,3 +56,11 @@ Los tipos de escaneo determinan lo que quieres conseguir a través del escaneo, 
 
 - -sC = ejecuta scripts automaticos
 
+
+## Filtros / Especificaciones
+
+Aquí especificamos las cosas que queremos escanear y como hacerlo:
+
+- Puertos:
+    • -p [puerto]
+
