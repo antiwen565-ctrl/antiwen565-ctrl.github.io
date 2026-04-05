@@ -24,7 +24,7 @@ ciberseguridad ofensiva
 
 ---------------------------
 
-#Como usarlo??
+## Como usarlo??
 
 La estructura es la siguiente:
 
@@ -40,7 +40,7 @@ nmap -sS -p- -T4 10.10.10.10
 - -T4 = que se haga a velocidad intermedia
 
 
-#Tipos de escaneo
+## Tipos de escaneo
 
 Los tipos de escaneo determinan lo que quieres conseguir a través del escaneo, aquí los más importantes:
 
