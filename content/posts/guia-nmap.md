@@ -56,6 +56,9 @@ Los tipos de escaneo determinan lo que quieres conseguir a través del escaneo, 
 
 - -sC = ejecuta scripts automaticos
 
+- -O = para detectar el sistema operativo 
+
+- -A = los ejecuta todos
 
 ## Filtros / Especificaciones
 
