@@ -44,7 +44,7 @@ nmap -sS -p- -T4 10.10.10.10
 
 Los tipos de escaneo determinan lo que quieres conseguir a través del escaneo, aquí los más importantes:
 
-- -sS = un escaneo general, el más común.
+- -sS = un escaneo de los puertos tcp
 
 - -sT = lo mismo pero con conexión completa. Es muy detectable
 
