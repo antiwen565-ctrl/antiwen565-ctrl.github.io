@@ -66,4 +66,10 @@ Aquí especificamos las cosas que queremos escanear y como hacerlo:
 
     • -p-  (hace que escanee todos los puertos
 
+- Velocidad:
+
+    • -T0 = Lento pero casi indetectable
+    • -T4 = El punto intermedio 
+    • -T5 = Muy agresivo y detectable
+
 
