@@ -62,5 +62,8 @@ Los tipos de escaneo determinan lo que quieres conseguir a través del escaneo, 
 Aquí especificamos las cosas que queremos escanear y como hacerlo:
 
 - Puertos:
-    • -p [puerto]
+    • -p [puerto] (aquí específicas los puertos que quieres escanear, si quieres más de un puerto los separas por coma)
+
+    • -p-  (hace que escanee todos los puertos
+
 
