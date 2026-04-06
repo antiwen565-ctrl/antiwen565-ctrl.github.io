@@ -62,14 +62,14 @@ Los tipos de escaneo determinan lo que quieres conseguir a través del escaneo, 
 Aquí especificamos las cosas que queremos escanear y como hacerlo:
 
 - Puertos:
-    • -p [puerto] (aquí específicas los puertos que quieres escanear, si quieres más de un puerto los separas por coma)
+    - -p [puerto] (aquí específicas los puertos que quieres escanear, si quieres más de un puerto los separas por coma)
 
-    • -p-  (hace que escanee todos los puertos
+    - -p-  (hace que escanee todos los puertos
 
 - Velocidad:
 
-    • -T0 = Lento pero casi indetectable
-    • -T4 = El punto intermedio 
-    • -T5 = Muy agresivo y detectable
+    - -T0 = Lento pero casi indetectable
+    - -T4 = El punto intermedio 
+    - -T5 = Muy agresivo y detectable
 
 
